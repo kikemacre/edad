@@ -25,16 +25,16 @@ public class PracticaJavadoc {
             
             if(edad>= 18){
                 
-                System.out.println("eres mayor de edad");
+                System.out.println("tu eres mayor de edad");
                 
             }
             else{
-                System.out.println("eres menor de edad");
+                System.out.println("tu eres menor de edad");
             }
            
             
     }      
-        // TODO code application logic here
+     
     }
     
 
